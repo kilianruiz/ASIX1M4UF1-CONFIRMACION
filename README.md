@@ -39,3 +39,10 @@ Este texto esta en **_negrita y cursiva_**.
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
 ![Esto es una imagen de un planeta](https://github.com/kilianruiz/ASIX1M4UF1-CONFIRMACION/blob/main/la-canica-azul_a3941285.jpg "Título opcional de la foto")
+
+|Primera Col|Segunda Col|3 col|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|Asix1|M4|
